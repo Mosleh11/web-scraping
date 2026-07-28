@@ -5,6 +5,8 @@
 Scraping des 200 derniers articles du [Blog du Modérateur](https://www.blogdumoderateur.com/)
 avec `requests`, `BeautifulSoup4`, export CSV UTF-8 et base SQLite.
 
+> Jour 2 (Selenium — Doctolib & Les Echos) : voir [README_JOUR2.md](README_JOUR2.md).
+
 ## Installation
 
 ```bash
