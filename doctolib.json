@@ -1,0 +1,110 @@
+[
+  {
+    "nom_specialite": "M. Antoine SECHERESSE - Ostéopathe",
+    "adresse": "91 bis Rue Truffaut, 75017 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [],
+    "prochain_rdv": "11 août 2026",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/bagneux/antoine-secheresse"
+  },
+  {
+    "nom_specialite": "Mme Jessica Pereira - Ostéopathe",
+    "adresse": "29 Rue Bourgon, 75013 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [
+      "11:00",
+      "13:00",
+      "10:00"
+    ],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/jessica-pereira-paris"
+  },
+  {
+    "nom_specialite": "Mme ESTELLE BERGEL - Ostéopathe",
+    "adresse": "268 Rue du Faubourg Saint-Honoré, 75008 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [
+      "18:00",
+      "09:00",
+      "10:00"
+    ],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/estelle-bergel"
+  },
+  {
+    "nom_specialite": "Mme Estelle BARBIER - Ostéopathe",
+    "adresse": "3 Rue Guillaume Tell, 75017 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/estelle-barbier"
+  },
+  {
+    "nom_specialite": "Mme MILDRED SANCHEZ - Ostéopathe",
+    "adresse": "8 Rue de la Banque, 75002 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/mildred-sanchez"
+  },
+  {
+    "nom_specialite": "M. Jean-Marie GEFFROY - Ostéopathe",
+    "adresse": "14 Rue Auger, 75020 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/jean-marie-geffroy"
+  },
+  {
+    "nom_specialite": "Mme Géraldine Benit - Ostéopathe",
+    "adresse": "44 Rue de Montmorency, 75003 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/geraldine-benit"
+  },
+  {
+    "nom_specialite": "M. Christophe Pasteur - Ostéopathe",
+    "adresse": "22 Rue Ballu, 75009 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/christophe-pasteur"
+  },
+  {
+    "nom_specialite": "M. Alain SCHACHMANN - Ostéopathe",
+    "adresse": "22 Rue des Halles, 75001 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/alain-schachmann"
+  },
+  {
+    "nom_specialite": "M. Pierre DARMONT - Ostéopathe",
+    "adresse": "8 Rue Pierre le Grand, 75008 Paris",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [],
+    "prochain_rdv": "",
+    "url_fiche": "https://www.doctolib.fr/osteopathe/paris/pierre-darmont"
+  }
+]
