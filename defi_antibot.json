@@ -1,0 +1,506 @@
+{
+  "brut": {
+    "Broken Image Dimensions": {
+      "valeur": "16x16",
+      "verdict": "VERT"
+    },
+    "CHR_BATTERY": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "CHR_DEBUG_TOOLS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "CHR_MEMORY": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Chrome\n(New)": {
+      "valeur": "present (passed)",
+      "verdict": "VERT"
+    },
+    "HEADCHR_CHROME_OBJ": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_IFRAME": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_PERMISSIONS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_PLUGINS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_UA": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Languages\n(Old)": {
+      "valeur": "fr-FR,fr,en-US,en",
+      "verdict": "VERT"
+    },
+    "MQ_SCREEN": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_ETSL": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_LANGUAGE": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_OVERFLOW": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_PROPERTIES": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_UA": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_WEBSOCKET": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_WINDOW_HEIGHT": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Permissions\n(New)": {
+      "valeur": "prompt",
+      "verdict": "VERT"
+    },
+    "Plugins Length\n(Old)": {
+      "valeur": "5",
+      "verdict": "VERT"
+    },
+    "Plugins is of type PluginArray": {
+      "valeur": "passed",
+      "verdict": "VERT"
+    },
+    "SELENIUM_DRIVER": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "SEQUENTUM": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "TRANSPARENT_PIXEL": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "User Agent\n(Old)": {
+      "valeur": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+      "verdict": "VERT"
+    },
+    "VIDEO_CODECS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "WebDriver\n(New)": {
+      "valeur": "present (failed)",
+      "verdict": "ROUGE"
+    },
+    "WebDriver Advanced": {
+      "valeur": "passed",
+      "verdict": "VERT"
+    },
+    "WebGL Renderer": {
+      "valeur": "ANGLE (Intel, Intel(R) Graphics (0x00007D67) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "verdict": "VERT"
+    },
+    "WebGL Vendor": {
+      "valeur": "Google Inc. (Intel)",
+      "verdict": "VERT"
+    }
+  },
+  "stealth": {
+    "Broken Image Dimensions": {
+      "valeur": "16x16",
+      "verdict": "VERT"
+    },
+    "CHR_BATTERY": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "CHR_DEBUG_TOOLS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "CHR_MEMORY": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Chrome\n(New)": {
+      "valeur": "present (passed)",
+      "verdict": "VERT"
+    },
+    "HEADCHR_CHROME_OBJ": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_IFRAME": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_PERMISSIONS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_PLUGINS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_UA": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Languages\n(Old)": {
+      "valeur": "fr-FR,fr,en-US,en",
+      "verdict": "VERT"
+    },
+    "MQ_SCREEN": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_ETSL": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_LANGUAGE": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_OVERFLOW": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_PROPERTIES": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_UA": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_WEBSOCKET": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_WINDOW_HEIGHT": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Permissions\n(New)": {
+      "valeur": "prompt",
+      "verdict": "VERT"
+    },
+    "Plugins Length\n(Old)": {
+      "valeur": "5",
+      "verdict": "VERT"
+    },
+    "Plugins is of type PluginArray": {
+      "valeur": "passed",
+      "verdict": "VERT"
+    },
+    "SELENIUM_DRIVER": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "SEQUENTUM": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "TRANSPARENT_PIXEL": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "User Agent\n(Old)": {
+      "valeur": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+      "verdict": "VERT"
+    },
+    "VIDEO_CODECS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "WebDriver\n(New)": {
+      "valeur": "missing (passed)",
+      "verdict": "VERT"
+    },
+    "WebDriver Advanced": {
+      "valeur": "passed",
+      "verdict": "VERT"
+    },
+    "WebGL Renderer": {
+      "valeur": "ANGLE (Intel, Intel(R) Graphics (0x00007D67) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "verdict": "VERT"
+    },
+    "WebGL Vendor": {
+      "valeur": "Google Inc. (Intel)",
+      "verdict": "VERT"
+    }
+  },
+  "headless_sans_ua": {
+    "Broken Image Dimensions": {
+      "valeur": "16x16",
+      "verdict": "VERT"
+    },
+    "CHR_BATTERY": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "CHR_DEBUG_TOOLS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "CHR_MEMORY": {
+      "valeur": "FAIL",
+      "verdict": "ROUGE"
+    },
+    "Chrome\n(New)": {
+      "valeur": "present (passed)",
+      "verdict": "VERT"
+    },
+    "HEADCHR_CHROME_OBJ": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_IFRAME": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_PERMISSIONS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_PLUGINS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_UA": {
+      "valeur": "FAIL",
+      "verdict": "ROUGE"
+    },
+    "Languages\n(Old)": {
+      "valeur": "fr-FR,fr,en-US,en",
+      "verdict": "VERT"
+    },
+    "MQ_SCREEN": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_ETSL": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_LANGUAGE": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_OVERFLOW": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_PROPERTIES": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_UA": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_WEBSOCKET": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_WINDOW_HEIGHT": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Permissions\n(New)": {
+      "valeur": "prompt",
+      "verdict": "VERT"
+    },
+    "Plugins Length\n(Old)": {
+      "valeur": "5",
+      "verdict": "VERT"
+    },
+    "Plugins is of type PluginArray": {
+      "valeur": "passed",
+      "verdict": "VERT"
+    },
+    "SELENIUM_DRIVER": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "SEQUENTUM": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "TRANSPARENT_PIXEL": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "User Agent\n(Old)": {
+      "valeur": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+      "verdict": "ROUGE"
+    },
+    "VIDEO_CODECS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "WebDriver\n(New)": {
+      "valeur": "missing (passed)",
+      "verdict": "VERT"
+    },
+    "WebDriver Advanced": {
+      "valeur": "passed",
+      "verdict": "VERT"
+    },
+    "WebGL Renderer": {
+      "valeur": "ANGLE (Intel, Intel(R) Graphics (0x00007D67) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "verdict": "VERT"
+    },
+    "WebGL Vendor": {
+      "valeur": "Google Inc. (Intel)",
+      "verdict": "VERT"
+    }
+  },
+  "headless_avec_ua": {
+    "Broken Image Dimensions": {
+      "valeur": "16x16",
+      "verdict": "VERT"
+    },
+    "CHR_BATTERY": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "CHR_DEBUG_TOOLS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "CHR_MEMORY": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Chrome\n(New)": {
+      "valeur": "present (passed)",
+      "verdict": "VERT"
+    },
+    "HEADCHR_CHROME_OBJ": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_IFRAME": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_PERMISSIONS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_PLUGINS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "HEADCHR_UA": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Languages\n(Old)": {
+      "valeur": "fr-FR,fr,en-US,en",
+      "verdict": "VERT"
+    },
+    "MQ_SCREEN": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_ETSL": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_LANGUAGE": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_OVERFLOW": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_PROPERTIES": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_UA": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_WEBSOCKET": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "PHANTOM_WINDOW_HEIGHT": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "Permissions\n(New)": {
+      "valeur": "prompt",
+      "verdict": "VERT"
+    },
+    "Plugins Length\n(Old)": {
+      "valeur": "5",
+      "verdict": "VERT"
+    },
+    "Plugins is of type PluginArray": {
+      "valeur": "passed",
+      "verdict": "VERT"
+    },
+    "SELENIUM_DRIVER": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "SEQUENTUM": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "TRANSPARENT_PIXEL": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "User Agent\n(Old)": {
+      "valeur": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+      "verdict": "VERT"
+    },
+    "VIDEO_CODECS": {
+      "valeur": "ok",
+      "verdict": "VERT"
+    },
+    "WebDriver\n(New)": {
+      "valeur": "missing (passed)",
+      "verdict": "VERT"
+    },
+    "WebDriver Advanced": {
+      "valeur": "passed",
+      "verdict": "VERT"
+    },
+    "WebGL Renderer": {
+      "valeur": "ANGLE (Intel, Intel(R) Graphics (0x00007D67) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "verdict": "VERT"
+    },
+    "WebGL Vendor": {
+      "valeur": "Google Inc. (Intel)",
+      "verdict": "VERT"
+    }
+  }
+}
