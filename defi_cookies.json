@@ -1,0 +1,315 @@
+[
+  {
+    "site": "doctolib",
+    "cookies_consentement": {
+      "didomi_token": "eyJ1c2VyX2lkIjoiMTlmYThiNjUtMTgzOS02NWQ0LWEwOWItMTc4YzE5ZGQyNWUxIiwiY3JlYXRlZCI6IjIwMjYtMDctMjhUMTI6MzI6MjguNTQ3WiIsInVwZGF0ZWQiOiIyMDI2LTA3LTI4VDEyOjMyOjI5LjQ1MloiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiYzpkb2N0b2xpYmYtNFlDUnhmejQiXX0sInB1cnBvc2VzIjp7ImVuYWJsZWQiOlsiYW5hbHl0aWNzLVA4WUdqN0RIIiwiYW5hbHl0aWNzLU5HcXhXYm1uIiwiZGlzcGxheXRhLVY4a01lbllhIiwiZGlzcGxheXRhLVZyUFBWbkhoIiwibWVzdXJlZGEtREVUUXo2N0EiLCJhZHNwZXJmb3ItenhZcmhMVGQiXX0sInZlcnNpb24iOjJ9",
+      "euconsent-v2": "CQoD2oAQoD2oAAHABBENCpFgAAAAAAAAAAAAAAAAAAAA.IAAA.YAAAAAAAAAAA"
+    },
+    "url": "https://www.doctolib.fr/osteopathe/paris",
+    "bouton": "id=didomi-notice-agree-button",
+    "avant": [
+      {
+        "nom": "__cf_bm",
+        "domaine": ".doctolib.fr",
+        "duree_jours": 0.0,
+        "httpOnly": true,
+        "secure": true,
+        "taille_valeur": 220,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "_doctolib_session",
+        "domaine": "www.doctolib.fr",
+        "duree_jours": "session",
+        "httpOnly": true,
+        "secure": true,
+        "taille_valeur": 424,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "didomi_token",
+        "domaine": ".doctolib.fr",
+        "duree_jours": 183.0,
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 188,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "esid",
+        "domaine": "www.doctolib.fr",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 24,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "locale",
+        "domaine": "www.doctolib.fr",
+        "duree_jours": 92.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 2,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "ssid",
+        "domaine": "www.doctolib.fr",
+        "duree_jours": 396.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 23,
+        "valeur_encodee": true
+      }
+    ],
+    "apres": [
+      {
+        "nom": "__cf_bm",
+        "domaine": ".doctolib.fr",
+        "duree_jours": 0.0,
+        "httpOnly": true,
+        "secure": true,
+        "taille_valeur": 220,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "_doctolib_session",
+        "domaine": "www.doctolib.fr",
+        "duree_jours": "session",
+        "httpOnly": true,
+        "secure": true,
+        "taille_valeur": 438,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "didomi_token",
+        "domaine": ".doctolib.fr",
+        "duree_jours": 183.0,
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 444,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "esid",
+        "domaine": "www.doctolib.fr",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 24,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "euconsent-v2",
+        "domaine": ".doctolib.fr",
+        "duree_jours": 183.0,
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 62,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "locale",
+        "domaine": "www.doctolib.fr",
+        "duree_jours": 92.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 2,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "ssid",
+        "domaine": "www.doctolib.fr",
+        "duree_jours": 396.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 23,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "utm_b2b",
+        "domaine": ".doctolib.fr",
+        "duree_jours": 0.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 35,
+        "valeur_encodee": true
+      }
+    ],
+    "ajoutes": [
+      "euconsent-v2",
+      "utm_b2b"
+    ],
+    "tiers": []
+  },
+  {
+    "site": "maiia",
+    "cookies_consentement": {
+      "tarteaucitron": "!facebookpixel=wait!linkedininsighttag=wait!matomotagmanager=wait!screeb=wait"
+    },
+    "url": "https://www.maiia.com",
+    "bouton": "aucune",
+    "avant": [
+      {
+        "nom": "TS2d35c511027",
+        "domaine": "www.maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 192,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "TS5195239b029",
+        "domaine": "www.maiia.com",
+        "duree_jours": 0.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 96,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "TS5195239b078",
+        "domaine": "www.maiia.com",
+        "duree_jours": 0.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 752,
+        "valeur_encodee": false
+      }
+    ],
+    "apres": [
+      {
+        "nom": "TS017272e8",
+        "domaine": "www.maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 106,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "TS01c0e69a",
+        "domaine": ".maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 106,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "TS2d35c511027",
+        "domaine": "www.maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 192,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "TS5195239b029",
+        "domaine": "www.maiia.com",
+        "duree_jours": 0.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 96,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "TS5195239b078",
+        "domaine": "www.maiia.com",
+        "duree_jours": 0.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 752,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "TSPD_101",
+        "domaine": "www.maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 160,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "datadome",
+        "domaine": ".maiia.com",
+        "duree_jours": 365.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 128,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "dtCookie",
+        "domaine": ".maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 106,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "dtPC",
+        "domaine": ".maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 56,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "dtSa",
+        "domaine": ".maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 1,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "rxVisitor",
+        "domaine": ".maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 45,
+        "valeur_encodee": false
+      },
+      {
+        "nom": "rxvt",
+        "domaine": ".maiia.com",
+        "duree_jours": "session",
+        "httpOnly": false,
+        "secure": false,
+        "taille_valeur": 27,
+        "valeur_encodee": true
+      },
+      {
+        "nom": "tarteaucitron",
+        "domaine": "www.maiia.com",
+        "duree_jours": 365.0,
+        "httpOnly": false,
+        "secure": true,
+        "taille_valeur": 77,
+        "valeur_encodee": true
+      }
+    ],
+    "ajoutes": [
+      "TS017272e8",
+      "TS01c0e69a",
+      "TSPD_101",
+      "datadome",
+      "dtCookie",
+      "dtPC",
+      "dtSa",
+      "rxVisitor",
+      "rxvt",
+      "tarteaucitron"
+    ],
+    "tiers": []
+  }
+]
