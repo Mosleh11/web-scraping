@@ -1,0 +1,12 @@
+{
+  "visible": {
+    "total_moyen": 3.93,
+    "page_moyen": 2.46
+  },
+  "headless": {
+    "total_moyen": 3.04,
+    "page_moyen": 1.68
+  },
+  "gain_total_moyen": 1.29,
+  "gain_page_moyen": 1.46
+}
