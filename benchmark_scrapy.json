@@ -1,0 +1,70 @@
+{
+  "A_politesse": [
+    {
+      "concurrence": 1,
+      "temps": 136.5,
+      "items": 100,
+      "responses": 111,
+      "items_par_s": 0.73,
+      "ratio": 0.901
+    },
+    {
+      "concurrence": 4,
+      "temps": 137.8,
+      "items": 100,
+      "responses": 111,
+      "items_par_s": 0.73,
+      "ratio": 0.901
+    },
+    {
+      "concurrence": 8,
+      "temps": 133.4,
+      "items": 100,
+      "responses": 111,
+      "items_par_s": 0.75,
+      "ratio": 0.901
+    },
+    {
+      "concurrence": 16,
+      "temps": 132.8,
+      "items": 100,
+      "responses": 111,
+      "items_par_s": 0.75,
+      "ratio": 0.901
+    }
+  ],
+  "B_sans_throttling": [
+    {
+      "concurrence": 1,
+      "temps": 2.8,
+      "items": 30,
+      "responses": 34,
+      "items_par_s": 10.73,
+      "ratio": 0.882
+    },
+    {
+      "concurrence": 4,
+      "temps": 1.8,
+      "items": 30,
+      "responses": 34,
+      "items_par_s": 16.92,
+      "ratio": 0.882
+    },
+    {
+      "concurrence": 8,
+      "temps": 1.7,
+      "items": 30,
+      "responses": 34,
+      "items_par_s": 17.82,
+      "ratio": 0.882
+    },
+    {
+      "concurrence": 16,
+      "temps": 1.6,
+      "items": 30,
+      "responses": 34,
+      "items_par_s": 18.45,
+      "ratio": 0.882
+    }
+  ]
+}
