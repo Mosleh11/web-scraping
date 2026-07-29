@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 run_complet.log
 *.pdf
+crawl_films.log
+benchmark_run.log
+.scrapy/
