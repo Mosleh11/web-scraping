@@ -1,0 +1,653 @@
+[
+{
+  "libelle": "ACCOR",
+  "cours": 46.81,
+  "variation": -0.89,
+  "volume": 48611,
+  "isin": "1rPAC"
+},
+{
+  "libelle": "CREDIT AGRICOLE SA",
+  "cours": 18.44,
+  "variation": -1.21,
+  "volume": 932718,
+  "isin": "1rPACA"
+},
+{
+  "libelle": "AIR LIQUIDE",
+  "cours": 171.34,
+  "variation": -1.27,
+  "volume": 185882,
+  "isin": "1rPAI"
+},
+{
+  "libelle": "AIRBUS",
+  "cours": 211.1,
+  "variation": -0.42,
+  "volume": 209534,
+  "isin": "1rPAIR"
+},
+{
+  "libelle": "DANONE",
+  "cours": 68.8,
+  "variation": -4.76,
+  "volume": 909085,
+  "isin": "1rPBN"
+},
+{
+  "libelle": "BNP PARIBAS",
+  "cours": 107.64,
+  "variation": -0.52,
+  "volume": 467428,
+  "isin": "1rPBNP"
+},
+{
+  "libelle": "BUREAU VERITAS",
+  "cours": 29.52,
+  "variation": 8.05,
+  "volume": 1208231,
+  "isin": "1rPBVI"
+},
+{
+  "libelle": "CARREFOUR",
+  "cours": 15.84,
+  "variation": -1.0,
+  "volume": 494159,
+  "isin": "1rPCA"
+},
+{
+  "libelle": "CAPGEMINI",
+  "cours": 105.65,
+  "variation": 3.88,
+  "volume": 447555,
+  "isin": "1rPCAP"
+},
+{
+  "libelle": "AXA",
+  "cours": 44.96,
+  "variation": -1.34,
+  "volume": 962379,
+  "isin": "1rPCS"
+},
+{
+  "libelle": "VINCI",
+  "cours": 118.25,
+  "variation": -0.46,
+  "volume": 142279,
+  "isin": "1rPDG"
+},
+{
+  "libelle": "DASSAULT SYSTEMES",
+  "cours": 20.67,
+  "variation": -1.62,
+  "volume": 478506,
+  "isin": "1rPDSY"
+},
+{
+  "libelle": "ESSILORLUXOTTICA",
+  "cours": 163.7,
+  "variation": -2.94,
+  "volume": 546125,
+  "isin": "1rPEL"
+},
+{
+  "libelle": "BOUYGUES",
+  "cours": 46.25,
+  "variation": -0.6,
+  "volume": 112237,
+  "isin": "1rPEN"
+},
+{
+  "libelle": "ENGIE",
+  "cours": 26.35,
+  "variation": 0.73,
+  "volume": 934585,
+  "isin": "1rPENGI"
+},
+{
+  "libelle": "EURONEXT",
+  "cours": 149.9,
+  "variation": -0.73,
+  "volume": 54429,
+  "isin": "1rPENX"
+},
+{
+  "libelle": "EUROFINS SCIENTIFIC",
+  "cours": 67.86,
+  "variation": -0.96,
+  "volume": 42983,
+  "isin": "1rPERF"
+},
+{
+  "libelle": "EIFFAGE",
+  "cours": 120.1,
+  "variation": -1.31,
+  "volume": 41897,
+  "isin": "1rPFGRMC"
+},
+{
+  "libelle": "SOCIETE GENERALE",
+  "cours": 77.0,
+  "variation": 0.03,
+  "volume": 278950,
+  "isin": "1rPGLE"
+},
+{
+  "libelle": "THALES",
+  "cours": 245.1,
+  "variation": -1.68,
+  "volume": 113640,
+  "isin": "1rPHO"
+},
+{
+  "libelle": "KERING",
+  "cours": 287.15,
+  "variation": 14.63,
+  "volume": 467017,
+  "isin": "1rPKER"
+},
+{
+  "libelle": "LEGRAND",
+  "cours": 128.6,
+  "variation": -0.43,
+  "volume": 389726,
+  "isin": "1rPLR"
+},
+{
+  "libelle": "LVMH",
+  "cours": 472.5,
+  "variation": 0.47,
+  "volume": 258987,
+  "isin": "1rPMC"
+},
+{
+  "libelle": "MICHELIN",
+  "cours": 34.38,
+  "variation": -0.23,
+  "volume": 354839,
+  "isin": "1rPML"
+},
+{
+  "libelle": "L'OREAL",
+  "cours": 381.55,
+  "variation": -0.35,
+  "volume": 96204,
+  "isin": "1rPOR"
+},
+{
+  "libelle": "ALTEN",
+  "cours": 79.75,
+  "variation": 19.39,
+  "volume": 191761,
+  "isin": "1rPATE"
+},
+{
+  "libelle": "SOPRA STERIA",
+  "cours": 198.9,
+  "variation": 15.51,
+  "volume": 172947,
+  "isin": "1rPSOP"
+},
+{
+  "libelle": "KERING",
+  "cours": 285.2,
+  "variation": 13.85,
+  "volume": 510666,
+  "isin": "1rPKER"
+},
+{
+  "libelle": "BUREAU VERITAS",
+  "cours": 29.71,
+  "variation": 8.75,
+  "volume": 1277504,
+  "isin": "1rPBVI"
+},
+{
+  "libelle": "ATOS GROUP",
+  "cours": 33.98,
+  "variation": 6.45,
+  "volume": 124269,
+  "isin": "1rPATO"
+},
+{
+  "libelle": "MEDINCELL",
+  "cours": 26.52,
+  "variation": 5.07,
+  "volume": 119910,
+  "isin": "1rPMEDCL"
+},
+{
+  "libelle": "VUSION",
+  "cours": 136.7,
+  "variation": 4.91,
+  "volume": 38154,
+  "isin": "1rPVU"
+},
+{
+  "libelle": "CAPGEMINI",
+  "cours": 106.1,
+  "variation": 4.33,
+  "volume": 503304,
+  "isin": "1rPCAP"
+},
+{
+  "libelle": "SEB",
+  "cours": 59.5,
+  "variation": 3.39,
+  "volume": 48091,
+  "isin": "1rPSK"
+},
+{
+  "libelle": "GTT (GAZTRANSPORT ET TEC.)",
+  "cours": 192.2,
+  "variation": 3.33,
+  "volume": 44367,
+  "isin": "1rPGTT"
+},
+{
+  "libelle": "NEXANS",
+  "cours": 128.2,
+  "variation": 3.3,
+  "volume": 144711,
+  "isin": "1rPNEX"
+},
+{
+  "libelle": "WENDEL",
+  "cours": 84.15,
+  "variation": 3.06,
+  "volume": 16741,
+  "isin": "1rPMF"
+},
+{
+  "libelle": "RENAULT",
+  "cours": 27.86,
+  "variation": 2.62,
+  "volume": 433632,
+  "isin": "1rPRNO"
+},
+{
+  "libelle": "TELEPERFORMANCE",
+  "cours": 61.54,
+  "variation": 2.57,
+  "volume": 101773,
+  "isin": "1rPTEP"
+},
+{
+  "libelle": "STELLANTIS",
+  "cours": 5.2,
+  "variation": 2.54,
+  "volume": 3235885,
+  "isin": "1rPSTLAP"
+},
+{
+  "libelle": "CLARIANE",
+  "cours": 4.062,
+  "variation": 2.42,
+  "volume": 102021,
+  "isin": "1rPCLARI"
+},
+{
+  "libelle": "TOTALENERGIES",
+  "cours": 75.54,
+  "variation": 2.39,
+  "volume": 1273647,
+  "isin": "1rPTTE"
+},
+{
+  "libelle": "DBV TECHNOLOGIES",
+  "cours": 2.426,
+  "variation": 2.28,
+  "volume": 442288,
+  "isin": "1rPDBV"
+},
+{
+  "libelle": "ERAMET",
+  "cours": 43.02,
+  "variation": 1.99,
+  "volume": 16262,
+  "isin": "1rPERA"
+},
+{
+  "libelle": "VIVENDI",
+  "cours": 2.024,
+  "variation": 1.96,
+  "volume": 477048,
+  "isin": "1rPVIV"
+},
+{
+  "libelle": "MAUREL & PROM",
+  "cours": 8.08,
+  "variation": 1.96,
+  "volume": 87884,
+  "isin": "1rPMAU"
+},
+{
+  "libelle": "VICAT",
+  "cours": 62.9,
+  "variation": 1.94,
+  "volume": 29040,
+  "isin": "1rPVCT"
+},
+{
+  "libelle": "IPSOS",
+  "cours": 42.7,
+  "variation": 1.91,
+  "volume": 62031,
+  "isin": "1rPIPS"
+},
+{
+  "libelle": "JCDECAUX",
+  "cours": 22.5,
+  "variation": 1.9,
+  "volume": 98373,
+  "isin": "1rPDEC"
+},
+{
+  "libelle": "ARKEMA",
+  "cours": 58.2,
+  "variation": 1.84,
+  "volume": 94894,
+  "isin": "1rPAKE"
+},
+{
+  "libelle": "ORANGE",
+  "cours": 16.885,
+  "variation": -1.69,
+  "volume": 1352894,
+  "isin": "1rPORA"
+},
+{
+  "libelle": "PUBLICIS GROUPE",
+  "cours": 94.78,
+  "variation": 1.0,
+  "volume": 256334,
+  "isin": "1rPPUB"
+},
+{
+  "libelle": "PERNOD RICARD",
+  "cours": 66.82,
+  "variation": -1.42,
+  "volume": 198391,
+  "isin": "1rPRI"
+},
+{
+  "libelle": "HERMES INTL",
+  "cours": 1499.5,
+  "variation": -11.56,
+  "volume": 209312,
+  "isin": "1rPRMS"
+},
+{
+  "libelle": "RENAULT",
+  "cours": 27.87,
+  "variation": 2.65,
+  "volume": 423566,
+  "isin": "1rPRNO"
+},
+{
+  "libelle": "SAFRAN",
+  "cours": 340.7,
+  "variation": -0.67,
+  "volume": 224647,
+  "isin": "1rPSAF"
+},
+{
+  "libelle": "SANOFI",
+  "cours": 79.6,
+  "variation": 0.28,
+  "volume": 476870,
+  "isin": "1rPSAN"
+},
+{
+  "libelle": "SAINT-GOBAIN",
+  "cours": 76.12,
+  "variation": -0.57,
+  "volume": 285147,
+  "isin": "1rPSGO"
+},
+{
+  "libelle": "STELLANTIS",
+  "cours": 5.19,
+  "variation": 2.35,
+  "volume": 3168856,
+  "isin": "1rPSTLAP"
+},
+{
+  "libelle": "STMICROELECTRONICS",
+  "cours": 43.445,
+  "variation": -2.32,
+  "volume": 1123360,
+  "isin": "1rPSTMPA"
+},
+{
+  "libelle": "SCHNEIDER ELECTRIC",
+  "cours": 257.0,
+  "variation": -1.91,
+  "volume": 394050,
+  "isin": "1rPSU"
+},
+{
+  "libelle": "TOTALENERGIES",
+  "cours": 75.74,
+  "variation": 2.66,
+  "volume": 1204162,
+  "isin": "1rPTTE"
+},
+{
+  "libelle": "UNIBAIL-RODAMCO-WESTFIELD",
+  "cours": 105.3,
+  "variation": -0.47,
+  "volume": 18578,
+  "isin": "1rPURW"
+},
+{
+  "libelle": "VEOLIA",
+  "cours": 35.26,
+  "variation": -1.18,
+  "volume": 416582,
+  "isin": "1rPVIE"
+},
+{
+  "libelle": "JCDECAUX",
+  "cours": 22.44,
+  "variation": 1.63,
+  "volume": 91777,
+  "isin": "1rPDEC"
+},
+{
+  "libelle": "BOLLORE SE",
+  "cours": 4.04,
+  "variation": 1.61,
+  "volume": 338242,
+  "isin": "1rPBOL"
+},
+{
+  "libelle": "EURAZEO",
+  "cours": 46.74,
+  "variation": 1.43,
+  "volume": 23147,
+  "isin": "1rPRF"
+},
+{
+  "libelle": "UBISOFT",
+  "cours": 5.552,
+  "variation": 1.42,
+  "volume": 441274,
+  "isin": "1rPUBI"
+},
+{
+  "libelle": "MERSEN",
+  "cours": 34.52,
+  "variation": 1.29,
+  "volume": 24936,
+  "isin": "1rPMRN"
+},
+{
+  "libelle": "ABIVAX",
+  "cours": 110.2,
+  "variation": 1.29,
+  "volume": 22549,
+  "isin": "1rPABVX"
+},
+{
+  "libelle": "EDENRED",
+  "cours": 28.54,
+  "variation": 1.28,
+  "volume": 223410,
+  "isin": "1rPEDEN"
+},
+{
+  "libelle": "FORVIA (EX FAURECIA)",
+  "cours": 9.194,
+  "variation": 1.23,
+  "volume": 311698,
+  "isin": "1rPFRVIA"
+},
+{
+  "libelle": "VALNEVA",
+  "cours": 2.214,
+  "variation": 1.0,
+  "volume": 198025,
+  "isin": "1rPVLA"
+},
+{
+  "libelle": "RUBIS",
+  "cours": 32.9,
+  "variation": 0.86,
+  "volume": 13751,
+  "isin": "1rPRUI"
+},
+{
+  "libelle": "VALLOUREC",
+  "cours": 21.19,
+  "variation": 0.86,
+  "volume": 131640,
+  "isin": "1rPVK"
+},
+{
+  "libelle": "TF1",
+  "cours": 7.095,
+  "variation": 0.85,
+  "volume": 117797,
+  "isin": "1rPTFI"
+},
+{
+  "libelle": "PLUXEE",
+  "cours": 14.37,
+  "variation": 0.84,
+  "volume": 123497,
+  "isin": "1rPPLX"
+},
+{
+  "libelle": "PUBLICIS GROUPE",
+  "cours": 94.52,
+  "variation": 0.72,
+  "volume": 263737,
+  "isin": "1rPPUB"
+},
+{
+  "libelle": "ADP",
+  "cours": 112.0,
+  "variation": 0.72,
+  "volume": 20334,
+  "isin": "1rPADP"
+},
+{
+  "libelle": "OPMOBILITY",
+  "cours": 12.92,
+  "variation": 0.7,
+  "volume": 23851,
+  "isin": "1rPOPM"
+},
+{
+  "libelle": "VICAT",
+  "cours": 62.1,
+  "variation": 0.65,
+  "volume": 24186,
+  "isin": "1rPVCT"
+},
+{
+  "libelle": "VIRIDIEN",
+  "cours": 79.5,
+  "variation": 0.63,
+  "volume": 23724,
+  "isin": "1rPVIRI"
+},
+{
+  "libelle": "MERCIALYS",
+  "cours": 12.04,
+  "variation": 0.5,
+  "volume": 81243,
+  "isin": "1rPMERY"
+},
+{
+  "libelle": "IPSEN",
+  "cours": 161.2,
+  "variation": 0.5,
+  "volume": 13978,
+  "isin": "1rPIPN"
+},
+{
+  "libelle": "ENGIE",
+  "cours": 26.27,
+  "variation": 0.42,
+  "volume": 1008983,
+  "isin": "1rPENGI"
+},
+{
+  "libelle": "ICADE",
+  "cours": 19.59,
+  "variation": 0.36,
+  "volume": 45556,
+  "isin": "1rPICAD"
+},
+{
+  "libelle": "VIRBAC",
+  "cours": 346.5,
+  "variation": 0.29,
+  "volume": 1208,
+  "isin": "1rPVIRP"
+},
+{
+  "libelle": "ALSTOM",
+  "cours": 16.375,
+  "variation": 0.28,
+  "volume": 201356,
+  "isin": "1rPALO"
+},
+{
+  "libelle": "ELIS",
+  "cours": 25.84,
+  "variation": 0.23,
+  "volume": 35820,
+  "isin": "1rPELIS"
+},
+{
+  "libelle": "VIRBAC",
+  "cours": 346.5,
+  "variation": 0.29,
+  "volume": 1208,
+  "isin": "1rPVIRP"
+},
+{
+  "libelle": "INTERPARFUMS",
+  "cours": 24.22,
+  "variation": 0.25,
+  "volume": 29965,
+  "isin": "1rPITP"
+},
+{
+  "libelle": "SANOFI",
+  "cours": 79.57,
+  "variation": 0.24,
+  "volume": 493707,
+  "isin": "1rPSAN"
+},
+{
+  "libelle": "ELIS",
+  "cours": 25.84,
+  "variation": 0.23,
+  "volume": 35820,
+  "isin": "1rPELIS"
+}
+]
