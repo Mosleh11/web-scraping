@@ -1,0 +1,125 @@
+{
+  "entite": "TotalEnergies",
+  "sources": [
+    "SIRENE",
+    "Wikipedia",
+    "RSS presse"
+  ],
+  "sirene": {
+    "siren": "542051180",
+    "denomination": "TOTALENERGIES SE (TOTALENERGIE SE)",
+    "adresse_siege": "LA DEFENSE 6 2 PLACE JEAN MILLIER 92400 COURBEVOIE",
+    "code_naf": "70.10Z",
+    "date_creation": "1954-01-01",
+    "tranche_effectif": "51",
+    "nature_juridique": "5800",
+    "correspondance_exacte": true,
+    "entites_portant_ce_nom": 632,
+    "autres_correspondances": [
+      "531680445 - TOTALENERGIES MARKETING FRANCE",
+      "844192443 - TOTALENERGIES CHARGING SERVICES",
+      "434836276 - TOTALENERGIES RENOUVELABLES FRANCE",
+      "856802400 - TOTALENERGIES PROXI NORD OUEST (CPO) (T-PNO)",
+      "554500199 - TOTALENERGIES PROXI SUD EST (T-PSE)",
+      "457503837 - TOTALENERGIES PROXI NORD EST (T-PNE)",
+      "324958198 - TOTALENERGIES PROXI SUD OUEST (T-PSO)",
+      "538612458 - TOTALENERGIES SOLAR FRANCE",
+      "780060406 - TOTALENERGIES MARKETING REUNION (TOTALENERGIES) (TR)",
+      "552006454 - TOTALENERGIES LUBRIFIANTS"
+    ]
+  },
+  "wikipedia": {
+    "url": "https://fr.wikipedia.org/wiki/TotalEnergies",
+    "nb_champs_infobox": 24,
+    "infobox": {
+      "Ancien nom": "Compagnie française des pétroles (1924-1985) Total - Compagnie française des pétroles (1985-1991) Total (1991-1999 puis 2003-2021) TotalFina (1999-2000) TotalFinaElf (2000-2003)",
+      "Création": "1924",
+      "Dates clés": "1993 : privatisation 1999 : absorbe Petrofina 2000 : absorbe Elf Aquitaine 2017 : absorbe Mærsk Oil 2020 : passe de statut de société anonyme à société européenne [ 1 ] 2021 : Total devient TotalEnerg",
+      "Fondateurs": "Ernest Mercier",
+      "Personnages clés": "Thierry Desmarest",
+      "Forme juridique": "Société européenne ( 16 juillet 2020 ) [ 1 ]",
+      "Action": "Euronext : TTE NYSE : TTE",
+      "Slogan": "Committed to better energy ( « engagé pour une énergie meilleure » )",
+      "Siège social": "Tour Total 2, place Jean-Millier La Défense 92400 Courbevoie France",
+      "Direction": "Patrick Pouyanné (président-directeur général) [ 2 ]",
+      "Actionnaires": "Actionnaires institutionnels (76,5 %) Salariés (8,2 %) Actionnaires individuels (15,3 %) Daniel Kretinsky (4,1 %)",
+      "Activité": "Énergie ( pétrole , gaz fossile , solaire , biomasse , etc. ), pétrochimie , gisements et exploitations minières",
+      "Produits": "Pétrole , gaz naturel , produits pétrochimiques , stations-service",
+      "Filiales": "903 filiales [ 3 ] début 2015 dont Argedis, Servauto (Total Belgique), AS24 , Elan [ 4 ] , Elf , Hutchinson , Sunpower , Lampiris , Saft , Total Énergie Électricité et Gaz France (Total Énergie Gaz [ ",
+      "Effectif": "102 887 (2024) [ 7 ]",
+      "SIREN": "542051180",
+      "TVA européenne": "FR59542051180",
+      "Site web": "totalenergies.com",
+      "Capitalisation": "122,7 G € ( 31 décembre 2025 ) [ 8 ]",
+      "Fonds propres": "117,5 G $ ( 31 décembre 2025 ) [ 9 ]",
+      "Chiffre d'affaires": "201,2 G $ ( 2025 ) [ 10 ]",
+      "Bilan comptable": "291,1 G $ ( 31 décembre 2025 ) [ 9 ]",
+      "Résultat net": "13,4 G $ ( 2025 ) [ 10 ]",
+      "Société précédente": "Compagnie auxiliaire de navigation , Omnium Français des Petroles ( d ) [ 11 ] , Petrofina [ 11 ] et Elf Aquitaine [ 11 ]"
+    },
+    "intro": "TotalEnergies SE Écouter ⓘ , ancienne Compagnie française des pétroles ( CFP ) Écouter ⓘ , puis Total Écouter ⓘ , est une multinationale française de production et de fourniture d’ hydrocarbures et d’autres sources d’énergies : pétrole et biocarburants , gaz naturel et gaz verts , énergies renouvelables et électricité ."
+  },
+  "presse": [
+    {
+      "titre": "TotalEnergies : Saft lance sa nouvelle génération de batteries lithium-ion",
+      "source": "www.bing.com",
+      "date": "Wed, 29 Jul 2026 05:36:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2fwww.boursier.com%2factions%2factualites%2fnews%2ftotalenergies-saft-lance-sa-nouvelle-generation-de-batteries-lithium-ion-991059.html&c=7098419940797803730&mkt=fr-fr"
+    },
+    {
+      "titre": "TotalEnergies : stratégie de rendement et 15% à prendre via des bonus cappés",
+      "source": "www.bing.com",
+      "date": "Tue, 28 Jul 2026 05:08:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2finvestir.lesechos.fr%2fconseils-boursiers%2fconseils-derives%2ftotalenergies-strategie-de-rendement-et-15-a-prendre-via-des-bonus-cappes-2244723&c=6695375714560327606&mkt=fr-fr"
+    },
+    {
+      "titre": "Devoir de vigilance : TotalEnergies fait appel de la décision du tribunal judiciaire de Paris",
+      "source": "www.bing.com",
+      "date": "Mon, 27 Jul 2026 10:55:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2fwww.lopinion.fr%2feconomie%2fdevoir-de-vigilance-totalenergies-fait-appel-de-la-decision-du-tribunal-judiciaire-de-paris&c=2393438471624764631&mkt=fr-fr"
+    },
+    {
+      "titre": "Chypre : TotalEnergies approuve le développement du champ gazier Cronos pour fournir l’Europe en GNL",
+      "source": "www.bing.com",
+      "date": "Mon, 27 Jul 2026 17:00:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2fwww.afp.com%2findex.php%2ffr%2finfos%2fchypre-totalenergies-approuve-le-developpement-du-champ-gazier-cronos-pour-fournir-leurope-en&c=6390017012568627777&mkt=fr-fr"
+    },
+    {
+      "titre": "TotalEnergies conteste en appel sa condamnation par la justice française",
+      "source": "www.bing.com",
+      "date": "Tue, 28 Jul 2026 11:07:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2fwww.agenceecofin.com%2factualites-industries%2f2807-140588-totalenergies-conteste-en-appel-sa-condamnation-par-la-justice-francaise&c=15117486378210871121&mkt=fr-fr"
+    },
+    {
+      "titre": "TotalEnergies fait appel de la décision lui enjoignant d’intégrer les émissions de CO2 de ses clients",
+      "source": "www.bing.com",
+      "date": "Sun, 26 Jul 2026 18:53:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2ffr.news.yahoo.com%2fsport%2ftotalenergies-fait-appel-d%25C3%25A9cision-enjoignant-085421579.html&c=2832909229528866726&mkt=fr-fr"
+    },
+    {
+      "titre": "Guerre au Moyen-Orient : TotalEnergies relance le plafonnement de ses carburants",
+      "source": "www.bing.com",
+      "date": "Wed, 22 Jul 2026 01:09:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2fwww.latribune.fr%2farticle%2fentreprises-finance%2fenergie-environnement%2f17602523778117%2fguerre-au-moyen-orient-totalenergies-relance-le-plafonnement-de-ses-carburants&c=9155090815084829328&mkt=fr-fr"
+    },
+    {
+      "titre": "TotalEnergies SE fait appel du jugement du 25 juin 2026 dans l’affaire relative au devoir de vigilance et aux risques climatiques",
+      "source": "www.bing.com",
+      "date": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2fwww.afp.com%2findex.php%2ffr%2finfos%2ftotalenergies-se-fait-appel-du-jugement-du-25-juin-2026-dans-laffaire-relative-au-devoir-de&c=13276107570382208343&mkt=fr-fr"
+    },
+    {
+      "titre": "\"Profiteurs de guerre\" : TotalEnergies annonce 5,4 milliards de dollars de bénéfices et ravive la polémique",
+      "source": "www.bing.com",
+      "date": "Thu, 23 Jul 2026 00:21:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2fwww.corsematin.com%2farticle%2ffrancemonde%2f58217349932861%2fprofiteurs-de-guerre-totalenergies-annonce-5-4-milliards-de-dollars-de-benefices-et-ravive-la-polemique&c=2699084025043252782&mkt=fr-fr"
+    },
+    {
+      "titre": "TotalEnergies double son bénéfice, porté par les prix élevés liés à la guerre au Moyen-Orient",
+      "source": "www.bing.com",
+      "date": "Thu, 23 Jul 2026 00:04:00 GMT",
+      "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b43500c2948aebe0ff0fafcbdbd9d&url=https%3a%2f%2fwww.laprovence.com%2farticle%2ffrance-monde%2f1505375574414515%2ftotalenergies-double-son-benefice-porte-par-les-prix-eleves-lies-a-la-guerre-au-moyen-orient&c=8217554704099681876&mkt=fr-fr"
+    }
+  ],
+  "nb_articles": 10
+}
