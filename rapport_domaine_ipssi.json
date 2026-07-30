@@ -1,0 +1,58 @@
+{
+  "domaine": "ipssi.fr",
+  "ip": "81.88.57.68",
+  "whois": {
+    "registrar": "AMEN / Agence des Médias Numériques",
+    "creation_date": "2007-06-08",
+    "expiration_date": "2027-06-08",
+    "name_servers": [
+      "ns1.amen.fr",
+      "ns2.amen.fr"
+    ],
+    "country": "n/a"
+  },
+  "headers_http": {
+    "status": 200,
+    "url_finale": "http://ipssi.fr/",
+    "https_fonctionnel": false,
+    "server": "Apache",
+    "x_powered_by": "non divulgue",
+    "securite": {
+      "csp": false,
+      "hsts": false,
+      "x_frame_options": "absent",
+      "x_content_type_options": "absent",
+      "referrer_policy": "absent"
+    },
+    "entetes_securite_manquants": [
+      "csp",
+      "hsts",
+      "x_frame_options",
+      "x_content_type_options",
+      "referrer_policy"
+    ]
+  },
+  "tls": {
+    "hote_teste": "ipssi.fr",
+    "certificat_valide": false,
+    "erreur_validation": "unable to get local issuer certificate"
+  },
+  "sous_domaines": {
+    "certificat_tls": [],
+    "sitemap": [],
+    "crtsh": {
+      "statut": "non interroge",
+      "raison": "robots.txt de crt.sh interdit tout crawl ; relancer avec --crtsh pour forcer",
+      "sous_domaines": []
+    }
+  },
+  "synthese_sous_domaines": {
+    "total": 0,
+    "wildcards": [],
+    "potentiellement_sensibles": []
+  },
+  "robots_txt": {
+    "statut": "HTTP 404",
+    "extrait": ""
+  }
+}
