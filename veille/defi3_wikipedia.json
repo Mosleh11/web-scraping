@@ -1,0 +1,68 @@
+{
+  "cible": "TotalEnergies",
+  "derniere_revision": {
+    "date": "2026-07-20",
+    "horodatage": "2026-07-20T21:27:28Z",
+    "commentaire": "/* Époque de la Compagnie française des pétroles */",
+    "auteur_anonyme": false
+  },
+  "age_derniere_revision_jours": 10,
+  "mentions": [
+    {
+      "score": 2,
+      "titre": "TotalEnergies : Saft lance sa nouvelle génération de batteries lithium-ion",
+      "date": "2026-07-29",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b44c3f0db40d9a6f212312e7f99bd&url=https%3a%2f%2fwww.boursier.com%2factions%2factualites%2fnews%2ftotalenergies-saft-lance-sa-nouvelle-generation-de-batteries-lithium-ion-991059.html&c=7098419940797803730&mkt=fr-fr",
+      "delai_jours": null
+    },
+    {
+      "score": 2,
+      "titre": "Carburant : TotalEnergies annonce des milliards de bénéfices... pourquoi les prix à la pompe restent-ils aussi élevés pour le simple automobiliste ?",
+      "date": "2026-07-28",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b44c3f0db40d9a6f212312e7f99bd&url=https%3a%2f%2fwww.ladepeche.fr%2f2026%2f07%2f29%2fcarburant-totalenergies-annonce-des-milliards-de-benefices-pourquoi-les-prix-a-la-pompe-restent-ils-aussi-eleves-pour-le-simple-automobiliste-13486717.php&c=10549926875515913469&mkt=fr-fr",
+      "delai_jours": null
+    },
+    {
+      "score": 2,
+      "titre": "Chypre : TotalEnergies approuve le développement du champ gazier Cronos pour fournir l’Europe en GNL",
+      "date": "2026-07-27",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b44c3f0db40d9a6f212312e7f99bd&url=https%3a%2f%2fwww.afp.com%2findex.php%2ffr%2finfos%2fchypre-totalenergies-approuve-le-developpement-du-champ-gazier-cronos-pour-fournir-leurope-en&c=6390017012568627777&mkt=fr-fr",
+      "delai_jours": null
+    },
+    {
+      "score": 2,
+      "titre": "TotalEnergies et Eni lancent le développement du champ gazier Cronos au large de Chypre",
+      "date": "2026-07-28",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b44c3f0db40d9a6f212312e7f99bd&url=https%3a%2f%2fwww.abcbourse.com%2fmarches%2ftotalenergies-et-eni-lancent-le-developpement-du-champ-gazier-cronos-au-large-de_700441&c=6974826396659558881&mkt=fr-fr",
+      "delai_jours": null
+    },
+    {
+      "score": 2,
+      "titre": "La diversification géographique de TotalEnergies, un atout pour réaliser des profits historiques sur fond de blocage du détroit d’Ormuz",
+      "date": "2026-07-23",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b44c3f0db40d9a6f212312e7f99bd&url=https%3a%2f%2fwww.lefigaro.fr%2fsocietes%2fla-diversification-geographique-de-totalenergies-un-atout-pour-realiser-des-profits-historiques-sur-fond-de-blocage-du-detroit-d-ormuz-20260723&c=2604215641372932994&mkt=fr-fr",
+      "delai_jours": null
+    },
+    {
+      "score": 1,
+      "titre": "Devoir de vigilance : TotalEnergies fait appel de la décision du tribunal judiciaire de Paris",
+      "date": "2026-07-27",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b44c3f0db40d9a6f212312e7f99bd&url=https%3a%2f%2fwww.lopinion.fr%2feconomie%2fdevoir-de-vigilance-totalenergies-fait-appel-de-la-decision-du-tribunal-judiciaire-de-paris&c=2393438471624764631&mkt=fr-fr",
+      "delai_jours": null
+    },
+    {
+      "score": 1,
+      "titre": "Cinq questions qui se posent avant un procès qui pourrait contraindre TotalEnergies à réduire ses ventes d’hydrocarbures",
+      "date": "2026-07-27",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b44c3f0db40d9a6f212312e7f99bd&url=https%3a%2f%2fwww.ouest-france.fr%2feconomie%2fentreprises%2ftotal%2fcinq-questions-qui-se-posent-avant-un-proces-qui-pourrait-contraindre-totalenergies-a-reduire-ses-ventes-dhydrocarbures-62a8eab6-899f-11f1-b777-fc1f4f594fd2&c=9848040803126507449&mkt=fr-fr",
+      "delai_jours": null
+    },
+    {
+      "score": 1,
+      "titre": "\"Profiteurs de guerre\" : TotalEnergies annonce 5,4 milliards de dollars de bénéfices et ravive la polémique",
+      "date": "2026-07-23",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6b44c3f0db40d9a6f212312e7f99bd&url=https%3a%2f%2fwww.corsematin.com%2farticle%2ffrancemonde%2f58217349932861%2fprofiteurs-de-guerre-totalenergies-annonce-5-4-milliards-de-dollars-de-benefices-et-ravive-la-polemique&c=2699084025043252782&mkt=fr-fr",
+      "delai_jours": null
+    }
+  ]
+}

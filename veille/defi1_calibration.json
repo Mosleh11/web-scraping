@@ -1,0 +1,15 @@
+{
+  "v1": 0.36363636363636365,
+  "v2": 0.6363636363636364,
+  "mots_negatifs_ajoutes": [
+    "vigilance",
+    "fait appel",
+    "profiteurs"
+  ],
+  "mots_positifs_ajoutes": [
+    "approuve",
+    "atout",
+    "lance"
+  ],
+  "mot_retire": "benefice"
+}
