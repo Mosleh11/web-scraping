@@ -7,6 +7,7 @@ avec `requests`, `BeautifulSoup4`, export CSV UTF-8 et base SQLite.
 
 > Jour 2 (Selenium — Doctolib & Les Echos) : voir [README_JOUR2.md](README_JOUR2.md).
 > Jour 3 (Scrapy — AlloCiné & Boursorama) : voir [README_JOUR3.md](README_JOUR3.md).
+> Jour 4 (OSINT — domaine, entité, veille) : voir [README_JOUR4.md](README_JOUR4.md).
 
 ## Installation
 
