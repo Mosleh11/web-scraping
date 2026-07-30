@@ -1,0 +1,133 @@
+{
+  "domaine": "wikipedia.org",
+  "ip": "185.15.58.224",
+  "whois": {
+    "registrar": "MarkMonitor, Inc.",
+    "creation_date": "2001-01-13",
+    "expiration_date": "[datetime.",
+    "name_servers": [
+      "ns0.wikimedia.org",
+      "ns1.wikimedia.org",
+      "ns2.wikimedia.org"
+    ],
+    "country": "US"
+  },
+  "headers_http": {
+    "status": 200,
+    "url_finale": "https://www.wikipedia.org/",
+    "https_fonctionnel": true,
+    "server": "ATS/9.2.13",
+    "x_powered_by": "non divulgue",
+    "securite": {
+      "csp": false,
+      "hsts": true,
+      "x_frame_options": "absent",
+      "x_content_type_options": "absent",
+      "referrer_policy": "absent"
+    },
+    "entetes_securite_manquants": [
+      "csp",
+      "x_frame_options",
+      "x_content_type_options",
+      "referrer_policy"
+    ]
+  },
+  "tls": {
+    "hote_teste": "wikipedia.org",
+    "certificat_valide": true,
+    "expire_le": "Sep  4 20:06:43 2026 GMT",
+    "emetteur": "Let's Encrypt"
+  },
+  "sous_domaines": {
+    "certificat_tls": [
+      "*.m.mediawiki.org",
+      "*.m.wikibooks.org",
+      "*.m.wikidata.org",
+      "*.m.wikimedia.org",
+      "*.m.wikinews.org",
+      "*.m.wikipedia.org",
+      "*.m.wikiquote.org",
+      "*.m.wikisource.org",
+      "*.m.wikiversity.org",
+      "*.m.wikivoyage.org",
+      "*.m.wiktionary.org",
+      "*.mediawiki.org",
+      "*.planet.wikimedia.org",
+      "*.wikibooks.org",
+      "*.wikidata.org",
+      "*.wikifunctions.org",
+      "*.wikimedia.org",
+      "*.wikimediafoundation.org",
+      "*.wikinews.org",
+      "*.wikipedia.org",
+      "*.wikiquote.org",
+      "*.wikisource.org",
+      "*.wikiversity.org",
+      "*.wikivoyage.org",
+      "*.wiktionary.org",
+      "*.wmfusercontent.org",
+      "mediawiki.org",
+      "w.wiki",
+      "wikibooks.org",
+      "wikidata.org",
+      "wikifunctions.org",
+      "wikimedia.org",
+      "wikimediafoundation.org",
+      "wikinews.org",
+      "wikipedia.org",
+      "wikiquote.org",
+      "wikisource.org",
+      "wikiversity.org",
+      "wikivoyage.org",
+      "wiktionary.org",
+      "wmfusercontent.org"
+    ],
+    "sitemap": [],
+    "crtsh": {
+      "statut": "non interroge",
+      "raison": "robots.txt de crt.sh interdit tout crawl ; relancer avec --crtsh pour forcer",
+      "sous_domaines": []
+    }
+  },
+  "synthese_sous_domaines": {
+    "total": 41,
+    "wildcards": [
+      "*.m.mediawiki.org",
+      "*.m.wikibooks.org",
+      "*.m.wikidata.org",
+      "*.m.wikimedia.org",
+      "*.m.wikinews.org",
+      "*.m.wikipedia.org",
+      "*.m.wikiquote.org",
+      "*.m.wikisource.org",
+      "*.m.wikiversity.org",
+      "*.m.wikivoyage.org",
+      "*.m.wiktionary.org",
+      "*.mediawiki.org",
+      "*.planet.wikimedia.org",
+      "*.wikibooks.org",
+      "*.wikidata.org",
+      "*.wikifunctions.org",
+      "*.wikimedia.org",
+      "*.wikimediafoundation.org",
+      "*.wikinews.org",
+      "*.wikipedia.org",
+      "*.wikiquote.org",
+      "*.wikisource.org",
+      "*.wikiversity.org",
+      "*.wikivoyage.org",
+      "*.wiktionary.org",
+      "*.wmfusercontent.org"
+    ],
+    "potentiellement_sensibles": []
+  },
+  "robots_txt": {
+    "statut": "200",
+    "nb_lignes": 712,
+    "sitemaps": [
+      "https://en.wikipedia.org/w/rest.php/site/v1/sitemap/0"
+    ],
+    "nb_disallow": 460,
+    "extrait": "﻿# robots.txt for http://www.wikipedia.org/ and friends\n#\n# Please note: There are a lot of pages on this site, and there are\n# some misbehaved spiders out there that go _way_ too fast. If you're\n# irresponsible, your access to the site may be blocked.\n#\n\n# Observed spamming large amounts of https://en.wikipedia.org/?curid=NNNNNN\n# and ignoring 429 ratelimit responses, claims to respect robots:\n# http://mj12bot.com/\nUser-agent: MJ12bot\nDisallow: /\n\n# advertising-related bots:\nUser-agent: Mediapartners-Google*\nDisallow: /\n\n# Wikipedia work bots:\nUser-agent: IsraBot\nDisallow:\n\nUser-agent: Orthog"
+  }
+}
